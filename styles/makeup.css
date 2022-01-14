@@ -1,4 +1,7 @@
-
+h3{
+    padding-left: 200px;
+    font-size: 1.5em;
+}
 .pitha{
     display: grid;
     grid-template-columns: repeat(2, 1fr);
