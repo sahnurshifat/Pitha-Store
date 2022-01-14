@@ -1,0 +1,28 @@
+
+.pitha{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+.chitoi img{
+    height: 195px;
+    width: 260px;
+}
+.dimpuri img{
+    height: 195px;
+    width: 260px;
+}
+.patishapta img{
+    height: 195px;
+    width: 260px;
+    padding-left: 200px;
+}
+.vapa img{
+    height: 195px;
+    width: 260px;
+}
+.chitoi,  .patishapta p{
+    padding-left: 200px;
+}
+p{
+    font-size: 1.4em;
+}
